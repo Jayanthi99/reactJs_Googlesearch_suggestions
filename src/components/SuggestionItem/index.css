@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.list_item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+
+.suggestion {
+  flex-grow: 1;
+  color: #475569;
+}
+
+.arrow_img {
+  width: 14px;
+  height: 14px;
+}
+
